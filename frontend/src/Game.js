@@ -1,0 +1,1 @@
+export default function Game() { return <p>Game View</p>; }
